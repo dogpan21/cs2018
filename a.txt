@@ -1,1 +1,14 @@
 반갑습니다! 저장은 컨트롤에스
+오늘의 내용저장
+add-> commit -> push
+
+tracked, untracked
+
+staged, unstaged
+
+git init
+git add a.txt
+git commit -m "메시지" a.txt
+
+git remote add origin (깃헙주소) //오리진 주소 사이 띄어쓰기 유의합니다.
+git push -u origin master //다음부터는 git push만 써도 됩니다.
