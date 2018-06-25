@@ -12,3 +12,14 @@ git commit -m "메시지" a.txt
 
 git remote add origin (깃헙주소) //오리진 주소 사이 띄어쓰기 유의합니다.
 git push -u origin master //다음부터는 git push만 써도 됩니다.
+
+삭제명령
+git rm --cached b.txt // --cached가 있으면 온라인은 지워지지만, 내 저장소에는 파일이 남습니다.
+rm만 하면 untracked 상태에서만 끝납니다.
+git commit -m "확인사살" //절대 b.txt를 적어주지 않습니다.
+
+
+클론 대상의 깃헙으로 가서 주소를 카피합니다.
+git clone (대상 폴더 주소) //하면 뚝딱입니다. 내 피시에 업로드됨.
+
+도스창 이동은 cd입니다!!
