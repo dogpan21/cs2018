@@ -18,7 +18,7 @@ git rm --cached b.txt // --cached가 있으면 온라인은 지워지지만, 내
 rm만 하면 unstaged 상태에서만 끝납니다.
 
 git commit -m "확인사살" //절대 b.txt를 적어주지 않습니다.
-커밋까지 확실히 해야 untracked 상태가 되며, 더 이상 추적하지 않습니다!!
+커밋까지 확실히 해야 untracked 상태가 되며, 더 이상 변화상태(Modified)를 추적하지 않습니다!!
 
 
 클론 대상의 깃헙으로 가서 주소를 카피합니다.
