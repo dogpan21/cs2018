@@ -1,0 +1,11 @@
+게임 회사는 hwp를 아예 쓰지 않는 추세다. github 관리가 베스트!
+
+명령 팔레트(컨트롤 + 쉬프트 + p) -> 터미널 선택 git bash (unix shell)
+
+origin/master 최신이다
+
+여기에 나오는 해쉬값은 체크포인트 같은 것.
+git checkout (해쉬값) -> 해당 지점으로 돌아가는 명령어
+git checkout master brunch -> 더 찾아보기.
+
+git에 사진 올리는법 : ![사진이름](사진 주소)
