@@ -1,0 +1,5 @@
+﻿  exam2.cpp
+c:\users\junchic\source\repos\day3\exam2\exam2.cpp(19): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+c:\users\junchic\source\repos\day3\exam2\exam2.cpp(20): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+c:\users\junchic\source\repos\day3\exam2\exam2.cpp(21): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  exam2.vcxproj -> C:\Users\junchic\source\repos\day3\Debug\exam2.exe
