@@ -89,8 +89,9 @@ scanf는 char을 사용해서 해킹 공격이 가능.
 scanf_s char사용시 버퍼크기를 검증하는 과정을 거친다!
 
 [복습]
-exam 10
-exam 11-2 3의 배수 for문과 while문
-exercise 7-5 2번 2-5-8단 이중for문으로 만들기
-exercise 6-4 2번 계산기
-exercise 7-5 1번 변형 피라미드
+exam 10 //해결
+exam 11-2 3의 배수 for문과 while문 //해결
+exercise 7-5 2번 2-5-8단 이중for문으로 만들기 //해결. 속인자를 1++로 통일시키는데 집중하자.
+exercise 6-4 2번 계산기 //순서바꾸는거 오류나는거 질문
+exercise 7-5 1번 변형 피라미드 //해결
+디버그 마스터하기 - 브레이크포인트
