@@ -1,0 +1,8 @@
+﻿  exam11.cpp
+c:\users\junchic\desktop\work\cs2018\day7\exam11\exam11.cpp(786): warning C4566: 유니버설 문자 이름 '\u03AD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\junchic\desktop\work\cs2018\day7\exam11\exam11.cpp(786): warning C4566: 유니버설 문자 이름 '\u03C2'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\junchic\desktop\work\cs2018\day7\exam11\exam11.cpp(798): warning C4566: 유니버설 문자 이름 '\u03AD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\junchic\desktop\work\cs2018\day7\exam11\exam11.cpp(798): warning C4566: 유니버설 문자 이름 '\u03C2'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\junchic\desktop\work\cs2018\day7\exam11\exam11.cpp(804): warning C4566: 유니버설 문자 이름 '\u03AD'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+c:\users\junchic\desktop\work\cs2018\day7\exam11\exam11.cpp(804): warning C4566: 유니버설 문자 이름 '\u03C2'(으)로 표현되는 문자는 현재 코드 페이지(949)에서 표현할 수 없습니다.
+  exam11.vcxproj -> C:\Users\junchic\Desktop\work\cs2018\Day7\Debug\exam11 텍스트어드벤쳐 게임.exe

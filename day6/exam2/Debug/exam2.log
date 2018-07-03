@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  exam2.cpp
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(11): warning C4474: 'printf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(11): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 6개가 제공되었습니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): warning C4474: 'printf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\junchic\desktop\work\cs2018\day6\exam2\exam2.cpp(12): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 5개 필요하지만 6개가 제공되었습니다.
+  exam2.vcxproj -> C:\Users\junchic\Desktop\work\cs2018\day6\Debug\exam2.exe

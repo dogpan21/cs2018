@@ -1,0 +1,5 @@
+﻿  exercise 10-2 299p 예제.cpp
+c:\users\junchic\desktop\work\cs2018\day6\exercise 10-2 299p 예제\exercise 10-2 299p 예제.cpp(8): warning C4101: 'max' :참조되지 않은 지역 변수입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exercise 10-2 299p 예제\exercise 10-2 299p 예제.cpp(8): warning C4101: 'mid' :참조되지 않은 지역 변수입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exercise 10-2 299p 예제\exercise 10-2 299p 예제.cpp(8): warning C4101: 'min' :참조되지 않은 지역 변수입니다.
+  exercise 10-2 299p 예제.vcxproj -> C:\Users\junchic\Desktop\work\cs2018\day6\Debug\exercise 10-2 299p 예제.exe

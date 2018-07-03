@@ -1,0 +1,5 @@
+﻿  exam3.cpp
+c:\users\junchic\desktop\work\cs2018\day6\exam3\exam3.cpp(13): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam3\exam3.cpp(13): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+c:\users\junchic\desktop\work\cs2018\day6\exam3\exam3.cpp(13): warning C4477: 'printf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'double *'입니다.
+  exam3.vcxproj -> C:\Users\junchic\Desktop\work\cs2018\day6\Debug\exam3.exe
